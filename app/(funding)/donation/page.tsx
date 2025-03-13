@@ -1,7 +1,7 @@
 
 
-export default function Home() {
+export default function Donation() {
     return (
-      <div></div>
+      <div>Donation</div>
     );
   }
